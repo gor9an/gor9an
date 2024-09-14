@@ -19,8 +19,6 @@ final class Me: Skills {
 <img align="left" alt="Cplusplus" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 <img align="left" alt="Git" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
-<img align="left" alt="SwiftUI" height="40" src="https://github.com/VladimirFibe/VladimirFibe/blob/main/Assets/swiftui.png" />
-<img align="left" alt="CoreAnimation" height="40" src="https://github.com/VladimirFibe/VladimirFibe/blob/main/Assets/coreanimation.png" />
 <img align="left" alt="PastgreSql" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />
 <img align="left" alt="Firebase" height="40" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
 <img align="left" alt="Figma" height="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
